@@ -1,5 +1,5 @@
 # jsinterop-simple-native-example
-Simple Example for Accessing JavaScript APIs from Java (Native JsInterop)
+Simple Example for Accessing JavaScript APIs from Java (JsInterop "Native")
 
 This example uses GWT Boot as Starter Parent: https://github.com/gwtboot/gwt-boot-samples
 
