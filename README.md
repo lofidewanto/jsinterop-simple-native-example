@@ -3,7 +3,7 @@ Simple Example for Accessing JavaScript APIs from Java (JsInterop "Native")
 
 This example uses GWT Boot as Starter Parent: https://github.com/gwtboot/gwt-boot-samples
 
-Take a look at this article to see the whole story: ...
+Take a look at this article to see the whole story: http://bit.ly/WebBrowserGWTJsInteropNative
 
 [![Build Status](https://travis-ci.com/lofidewanto/jsinterop-simple-native-example.svg?branch=master)](https://travis-ci.com/lofidewanto/jsinterop-simple-native-example)
 
